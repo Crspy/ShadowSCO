@@ -1,0 +1,3 @@
+$l_<NUMBER> = local
+$g_<NUMBER> = global
+@ = label
